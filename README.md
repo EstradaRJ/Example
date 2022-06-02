@@ -1,2 +1,2 @@
-# Example
-Example Repository
+# Landing Page ⛑️
+Landing page abouth our team project
