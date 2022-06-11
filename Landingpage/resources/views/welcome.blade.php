@@ -11,7 +11,7 @@
     <link rel="stylesheet" href="css/styles.css">
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.2/css/all.css">
 
-    <title>A Appointment</title>
+    <title>Citas Medicas</title>
 </head>
 
 <body>
@@ -34,27 +34,27 @@
             <div class="collapse navbar-collapse" id="navmenu">
                 <ul class="navbar-nav ms-auto">
                     <li class="nav-link active">
-                        <strong href="#" class="nav-link text-white" >Services</strong>
+                        <strong href="#" class="nav-link text-white" >Servicios</strong>
                     </li>
                     <li class="nav-link active">
-                        <strong href="#" class="nav-link text-white">How Does It Works</strong>
+                        <strong href="#" class="nav-link text-white">Como funciona</strong>
                     </li>
                     <li class="nav-link active">
-                        <strong href="#" class="nav-link text-white">FAQ</strong>
+                        <strong href="#" class="nav-link text-white">Preguntas frecuentes</strong>
                     </li>
                     <li class="nav-link active dropdown">
                         <strong class="nav-link dropdown-toggle text-white" href="#" id="navbarDarkDropdownMenuLink" role="button"
                             data-bs-toggle="dropdown" aria-expanded="false">
-                            About Us
+                            Aserca de nosotros
                         </strong>
                         <ul class="dropdown-menu dropdown-menu" aria-labelledby="navbarLightDropdownMenuLink">
-                            <li><a class="dropdown-item" href="/">Mission</a></li>
+                            <li><a class="dropdown-item" href="/">Mision</a></li>
                             <li><a class="dropdown-item" href="/">Vision</a></li>
-                            <li><a class="dropdown-item" href="/">Values</a></li>
+                            <li><a class="dropdown-item" href="/">Valores</a></li>
                             <li>
                                 <hr class="dropdown-divider">
                             </li>
-                            <li><a class="dropdown-item" href="#sitemap">Sitemap</a></li>
+                            <li><a class="dropdown-item" href="#sitemap">Mapa del sitio</a></li>
                         </ul>
                            
                     </li>
@@ -69,11 +69,11 @@
         <div class="container">
             <div class="d-sm-flex align-items-center justify-content-between">
                 <div class="text-start">
-                    <h1>Get Your Appointment Without <span class="text-info">Any Lines</span></h1>
-                    <p class="lead my-4 text-start">No more waste of time</p>
-                    <button class="btn btn-info rounded-pill text-white"  href="#">Learn More</button>
+                    <h1>Obtenga su cita sin <span class="text-info">Cualquier línea</span></h1>
+                    <p class="lead my-4 text-start">No más pérdida de tiempo</p>
+                    <button class="btn btn-info rounded-pill text-white"  href="#">Aprende mas</button>
                 </div>
-                <img class="img-fluid w-50 d-none d-sm-block" src="img/health.png"
+                <img class="img-fluid w-50 d-none d-sm-block" src="img/doctorCitasOnline.png"
                     alt="Image of a Iphone with the app running">
             </div>
         </div>
@@ -86,11 +86,11 @@
     <section class="bg-info text-black p-5">
         <div class="container">
             <div class="d-md-flex justify-content-between align-items-center">
-                <h3 id="services" class="mb-3 mb-md-0 fs-5 text-white">No more lines, get your appointment in our website!</h3>
+                <h3 id="services" class="mb-3 mb-md-0 fs-5 text-white">¡No más filas, pide tu cita en nuestra web!</h3>
                 <div class="input-group news-input">
                     <input type="email" class="form-control" placeholder="Enter Email">
                     <button  class="btn btn-outline-light" type="button"
-                        id="button-newsletter">Send</button>
+                        id="button-newsletter">Enviar</button>
                 </div>
             </div>
         </div>
@@ -102,8 +102,8 @@
     <section class="p-5">
         <div class="container text-center">
             <!-- ancla -->
-            <h3 class="mb-5">You can find these services... <br>
-                <span class="text-info fs-5">...and much more!</span>
+            <h3 class="mb-5">Puedes encontrar estos servicios...<br>
+                <span class="text-info fs-5">...¡y mucho más!</span>
             </h3>
             <div id="carouselExampleCaptions" class="carousel slide" data-bs-ride="carousel">
                 <div class="carousel-indicators">
@@ -148,27 +148,27 @@
                 <div class="row text-center text-md-left">
 
                     <div class="col-md-2 col-lg-2 col-xl-2 mx-auto mt-3">
-                        <h5 class="text-uppercase mb-4 font-weight-bold ">User Agreemets</h5>
+                        <h5 class="text-uppercase mb-4 font-weight-bold ">Acuerdos de usuario</h5>
                         <p>
-                            <a href="#" class="text-white" style="text-decoration: none;"> Terms And Conditions</a>
+                            <a href="#" class="text-white" style="text-decoration: none;"> Términos y condiciones</a>
                         </p>
                         <p>
-                            <a href="#" class="text-white" style="text-decoration: none;"> Notice of Privacy</a>
+                            <a href="#" class="text-white" style="text-decoration: none;"> Aviso de Privacidad</a>
                         </p>
 
 
                     </div>
 
                     <div class="col-md-2 col-lg-2 col-xl-2 mx-auto mt-3">
-                        <h5 class="text-uppercase mb-4 font-weight-bold ">Get Help</h5>
+                        <h5 class="text-uppercase mb-4 font-weight-bold ">Consigue ayuda</h5>
                         <p>
-                            <a href="#" class="text-white" style="text-decoration: none;"> FAQ</a>
+                            <a href="#" class="text-white" style="text-decoration: none;"> Preguntas frecuentes</a>
                         </p>
                         <p>
-                            <a href="#" class="text-white" style="text-decoration: none;"> How Does It Works?</a>
+                            <a href="#" class="text-white" style="text-decoration: none;"> ¿Cómo funciona?</a>
                         </p>
                         <p>
-                            <a href="#" class="text-white" style="text-decoration: none;"> Sitemap</a>
+                            <a href="#" class="text-white" style="text-decoration: none;"> Mapa del sitio</a>
                         </p>
 
 
@@ -187,7 +187,7 @@
                     </div>
 
                     <div class="col-md-4 col-lg-3 col-xl-3 mx-auto mt-3">
-                        <h5 class="text-uppercase mb-4 ">Follow Us</h5>
+                        <h5 class="text-uppercase mb-4 ">Siguenos</h5>
                         <p>
                             <i class="fab fa-facebook-f "></i>
                         </p>
@@ -207,7 +207,7 @@
                 <hr class="mb-5">
 
                 <div class="row align-items-center">
-                    <p>©Copyright2022 | <strong class="text-white">Appointment</strong> | All rights reserved</p>
+                    <p>©Copyright2022 | <strong class="text-white">Cita</strong> | Reservados todos los derechos</p>
                 </div>
 
             </div>
