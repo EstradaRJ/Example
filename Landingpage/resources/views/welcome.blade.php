@@ -11,7 +11,7 @@
     <link rel="stylesheet" href="css/styles.css">
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.2/css/all.css">
 
-    <title>Citas Medicas</title>
+    <title>Citas Médicas</title>
 </head>
 
 <body>
